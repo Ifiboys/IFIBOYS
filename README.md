@@ -1,5 +1,5 @@
-# 💫 About Me:
-Je travaille actuellement en tant que stagiaire a Orange Digital Center<br>Je travaille sur un project nommeé : Pisci Smart.<br>Je suis devellopeur. <br>Mes language préférer: <br>Javascript! <br>Dart!<br>Python!<br><br>
+# 💫 A propos de Moi:
+Je travaille actuellement en tant que Lead develloppeur à Doniblon <br>Je travaille sur un project nommeé : Doniblon.<br>Je suis devellopeur. <br>Mes language préférer: <br>Javascript! <br>Dart!<br>Java!<br><br>
 
 
 ## 🌐 Socials:
