@@ -10,7 +10,7 @@
 ```
 
 # Ephraim D. Oladokun
-### It manager @ [Elverra Global ML](https://wwww.elverraglobalml.com) · Bamako, Mali 🇲🇱
+### Lead Developer @ [Elverra Global ML](https://elverra.com) · Bamako, Mali 🇲🇱
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ifiboys&color=0175c2&style=flat-square)](https://github.com/Ifiboys)
 
@@ -35,7 +35,7 @@
 
 ## 🧑💻 About Me
 
-- 🏢 **Current Role:** It manager at **Elverra Global ML**
+- 🏢 **Current Role:** Lead Developer at **Elverra Global ML**
 - 🚀 **SaaS Builder:** Developing **EnvSafe**—my own SaaS product at [envsafe.dev](https://envsafe.dev)
 - 💬 **Languages I Love:** JavaScript, Dart, and Java
 - 🌍 **Location:** Bamako, Mali 🇲🇱
@@ -103,15 +103,15 @@
 
 <div align="center">
 
-| 📈 **GitHub Stats** | 🔥 **Contribution Streak** |
+| 📊 **Profile Stats** | 🔥 **Contribution Streak** |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Ifiboys&theme=dark&show_icons=true&hide_border=true) | ![Streak](https://streak-stats.demolab.com/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ifiboys&theme=solarized_dark) | ![Streak](https://streak-stats.demolab.com/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
 
 <br/>
 
-**Most Used Programming Languages**
+**Interactive Contribution Graph**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifiboys&theme=dark&hide_border=true&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ifiboys&theme=react-dark&bg_color=0d1117&color=0175C2&line=0175C2&point=ffffff&area=true&hide_border=true)
 
 </div>
 
