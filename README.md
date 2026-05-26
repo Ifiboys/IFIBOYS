@@ -1,16 +1,16 @@
 <div align="center">
 
 ```text
-███████╗██╗  ██╗██████╗  ██████╗ ██╗   ██╗███████╗
-██╔════╝██║  ██║██╔══██╗██╔═══██╗╚██╗ ██╔╝██╔════╝
-█████╗  ███████║██████╔╝██║   ██║ ╚████╔╝ ███████╗
-██╔══╝  ██╔══██║██╔══██╗██║   ██║  ╚██╔╝  ╚════██║
-███████╗██║  ██║██████╔╝╚██████╔╝   ██║   ███████║
-╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝   ╚═╝   ╚══════╝
+██╗███████╗██╗██████╗   ██████╗ ██╗   ██╗███████╗
+██║██╔════╝██║██╔══██╗ ██╔═══██╗╚██╗ ██╔╝██╔════╝
+██║█████╗  ██║██████╔╝ ██║   ██║ ╚████╔╝ ███████╗
+██║██╔══╝  ██║██╔══██╗ ██║   ██║  ╚██╔╝  ╚════██║
+██║██║     ██║██████╔╝ ╚██████╔╝   ██║   ███████║
+╚═╝╚═╝     ╚═╝╚═════╝   ╚═════╝    ╚═╝   ╚══════╝
 ```
 
 # Ephraim D. Oladokun
-### Lead Developer @ [Elverra Global ML](https://elverra.com) · Bamako, Mali 🇲🇱
+### It manager @ [Elverra Global ML](https://wwww.elverraglobalml.com) · Bamako, Mali 🇲🇱
 
 [![Visits](https://visitcount.itsvg.in/api?id=Ifiboys&icon=0&color=0175C2)](https://visitcount.itsvg.in)
 
@@ -35,7 +35,7 @@
 
 ## 🧑💻 About Me
 
-- 🏢 **Current Role:** Lead Developer at **Elverra Global ML**
+- 🏢 **Current Role:** It manager at **Elverra Global ML**
 - 🚀 **SaaS Builder:** Developing **EnvSafe**—my own SaaS product at [envsafe.dev](https://envsafe.dev)
 - 💬 **Languages I Love:** JavaScript, Dart, and Java
 - 🌍 **Location:** Bamako, Mali 🇲🇱
