@@ -12,7 +12,7 @@
 # Ephraim D. Oladokun
 ### It manager @ [Elverra Global ML](https://wwww.elverraglobalml.com) · Bamako, Mali 🇲🇱
 
-[![Visits](https://visitcount.itsvg.in/api?id=Ifiboys&icon=0&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ifiboys&color=0175c2&style=flat-square)](https://github.com/Ifiboys)
 
 </div>
 
