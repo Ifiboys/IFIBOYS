@@ -105,7 +105,7 @@
 
 | 📈 **Profile Stats** | 🔥 **Contribution Streak** |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats-two-beige-90.vercel.app/api?username=Ifiboys&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-stats-two-beige-90.vercel.app/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
+| ![Stats](https://github-readme-stats-two-beige-90.vercel.app/api?username=Ifiboys&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats-ten-lake.vercel.app/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
 
 <br/>
 
