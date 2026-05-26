@@ -105,7 +105,7 @@
 
 | 📈 **Profile Stats** | 🔥 **Contribution Streak** |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats-two-beige-90.vercel.app/api?username=Ifiboys&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats-ten-lake.vercel.app/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
+| ![Stats](https://github-readme-stats-two-beige-90.vercel.app/api?username=Ifiboys&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://stearck.vercel.app/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
 
 <br/>
 
@@ -138,6 +138,6 @@
 
 ## 💰 Support My Work
 
-If **EnvSafe** or any of my tools have helped you, consider supporting my journey!
+If **EnvSafe** or any of my projects have helped you, consider supporting my journey!
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/oladokunefi)
