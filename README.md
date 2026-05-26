@@ -117,7 +117,7 @@
 
 **Interactive Contribution Graph**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ifiboys&theme=react-dark&bg_color=0d1117&color=0175C2&line=0175C2&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-stats-two-beige-90.vercel.app/graph?username=Ifiboys&theme=react-dark&bg_color=0d1117&color=0175C2&line=0175C2&point=ffffff&area=true&hide_border=true)
 
 </div>
 
