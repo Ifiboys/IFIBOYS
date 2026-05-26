@@ -103,9 +103,15 @@
 
 <div align="center">
 
-| 📊 **Profile Stats** | 🔥 **Contribution Streak** |
+| 📈 **Profile Stats** | 🔥 **Contribution Streak** |
 |:---:|:---:|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ifiboys&theme=solarized_dark) | ![Streak](https://streak-stats.demolab.com/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
+| ![Stats](https://github-readme-stats-two-beige-90.vercel.app/api?username=Ifiboys&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://streak-stats.demolab.com/?user=Ifiboys&theme=dark&hide_border=true&background=0d1117&ring=0175C2&fire=E34F26) |
+
+<br/>
+
+**Most Used Programming Languages**
+
+![Top Langs](https://github-readme-stats-two-beige-90.vercel.app/api/top-langs/?username=Ifiboys&theme=solarized-dark&hide_border=true&layout=compact&count_private=true)
 
 <br/>
 
