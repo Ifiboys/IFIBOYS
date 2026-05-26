@@ -10,7 +10,7 @@
 ```
 
 # Ephraim D. Oladokun
-### Lead Developer @ [Elverra Global ML](https://elverra.com) · Bamako, Mali 🇲🇱
+### IT Manager @ [Elverra Global ML](https://elverra.com) · Bamako, Mali 🇲🇱
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ifiboys&color=0175c2&style=flat-square)](https://github.com/Ifiboys)
 
@@ -35,7 +35,7 @@
 
 ## 🧑💻 About Me
 
-- 🏢 **Current Role:** Lead Developer at **Elverra Global ML**
+- 🏢 **Current Role:** IT Manager at **Elverra Global ML**
 - 🚀 **SaaS Builder:** Developing **EnvSafe**—my own SaaS product at [envsafe.dev](https://envsafe.dev)
 - 💬 **Languages I Love:** JavaScript, Dart, and Java
 - 🌍 **Location:** Bamako, Mali 🇲🇱
